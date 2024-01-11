@@ -1,6 +1,6 @@
-# UINIO-Peg-Board 实验洞洞板
+# UINIO-Peg-Board 洞洞实验板
 
-[**UINIO-Peg-Board**](https://gitee.com/uinika/UINIO-Peg-Board) 是一款**长度**和**宽度**均等于 `10cm`，焊盘间距保持在 `2.54mm` 的万用 PCB 实验洞洞板，可以用来方便的搭建一些接插元件实验电路。
+[**UINIO-Peg-Board**](https://gitee.com/uinika/UINIO-Peg-Board) 是一款**长度**和**宽度**均等于 `10cm`，焊盘间距保持在 `2.54mm` 的万用 PCB 洞洞实验板，可以用来方便的搭建一些接插元件测试电路。
 
 ![](./Images/PCB-3D-1.png)
 
