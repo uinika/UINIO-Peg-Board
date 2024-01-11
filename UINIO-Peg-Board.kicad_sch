@@ -6,25 +6,25 @@
 
   (title_block
     (title "UINIO-Peg-Board")
-    (date "2023-07-05")
-    (rev "Version 1.0.0")
-    (company "电子技术博客 UinIO.com")
+    (date "2024-01-12")
+    (rev "Version 1.0.1")
+    (company "UinIO.com 电子技术实验室")
   )
 
   (lib_symbols
   )
 
 
-  (text "www.uinio.com" (at 113.03 129.54 0)
-    (effects (font (size 6.5 6.5) (thickness 1.3) bold) (justify left bottom))
+  (text "www.UinIO.com" (at 99.06 111.76 0)
+    (effects (font (face "Russo One") (size 9 9)) (justify left bottom))
     (uuid 697dab92-b92f-48c9-b531-1cedde551ed2)
   )
-  (text "电子技术博客" (at 113.665 118.745 0)
-    (effects (font (size 8 8)) (justify left bottom))
+  (text "电子技术实验室" (at 110.49 134.62 0)
+    (effects (font (face "思源黑体") (size 8 8)) (justify left bottom))
     (uuid a19c8fe3-7e91-4774-90b0-fa1bd198e6a5)
   )
-  (text "万能的洞洞板不需要原理图" (at 62.23 95.25 0)
-    (effects (font (size 10 10)) (justify left bottom))
+  (text "万能的洞洞板不需要原理图" (at 64.77 88.9 0)
+    (effects (font (face "思源黑体") (size 10 10)) (justify left bottom))
     (uuid dd26c83b-2542-4eca-8f77-8016955785c2)
   )
 
